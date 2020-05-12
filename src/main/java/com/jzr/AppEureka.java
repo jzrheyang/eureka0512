@@ -1,5 +1,5 @@
 package com.jzr;
-//添加注释 jzr
+//添加注释 jzr4444
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
